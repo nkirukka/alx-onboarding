@@ -1,0 +1,7 @@
+Initialize SUM to zero.
+Read input.
+Get numbers.
+Multiply number by itself to get square.
+Add result to SUM.
+Repeat the loop.
+Return SUM.
