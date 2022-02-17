@@ -1,0 +1,8 @@
+Initialize SUM to zero.
+Get input from user.
+Read numbers from input.
+    IF user number is greater than zero.
+        Add number to SUM.
+    ELSE
+        Break the loop.
+    PRINT SUM.
