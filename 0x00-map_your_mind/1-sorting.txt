@@ -1,0 +1,9 @@
+Initialize list to empty.
+Read first number and push to empty list.
+Read second number and push to empty list.
+Read third number and push to empty list.
+    IF list is unsorted.
+        Sort list.
+            PRINT list.
+    ELSE
+        PRINT list.
